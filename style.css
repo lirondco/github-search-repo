@@ -1,0 +1,36 @@
+body {
+    background: #07033f;
+}
+
+header {
+    text-align: center;
+    color: blanchedalmond;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+form {
+    display: block;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: blanchedalmond;
+    margin-left: 100px;
+}
+
+#results {
+    display: block;
+    text-align: left;
+    margin: 10px 100px 0px 100px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: blanchedalmond;
+}
+
+a {
+    color: burlywood;
+}
+
+a::after {
+    color: white;
+}
+
+li {
+    list-style: none;
+}
